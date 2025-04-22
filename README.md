@@ -2,7 +2,7 @@
 
 ### Deployed Link:
 
-https://joe-gerhard.github.io/Solitaire/
+https://chakravarthy2468.github.io/Solitaire/
 
 ### Wireframe:
 
